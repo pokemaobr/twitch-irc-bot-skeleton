@@ -1,0 +1,17 @@
+{
+  "require": {
+    "phergie/phergie-irc-client-react": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/pokemaobr/phergie-irc-client-react"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/pokemaobr/phergie-irc-parser"
+    }
+  ],
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}
